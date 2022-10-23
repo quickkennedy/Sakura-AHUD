@@ -179,7 +179,7 @@ Scheme
 		NewGame.FillColor								"0 0 0 255"
 		NewGame.SelectionColor							"Orange"
 		NewGame.DisabledColor							"128 128 128 196"
-		TFColors.ChatTextYellow							"251 235 202 255"
+		TFColors.ChatTextYellow							"255 255 255 255"
 		TFColors.ChatTextTeamBlue						"153 204 255 255"
 		TFColors.ChatTextTeamRed						"255 63 53 255"
 	}
